@@ -1,0 +1,10 @@
+#score {
+    color: darkgreen;
+    font-size: medium;
+}
+
+#msg {
+    color: red;
+    padding: 5px 0;
+    font-size: xx-large;
+}
